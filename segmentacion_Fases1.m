@@ -1,5 +1,3 @@
-function [iniFin,newFs,NF]=segmentacion_Fases_Funcion(x,Fs,targetSil)
-
 %Description:
 
 %Main idea: indexes of the instantenous phase array are identical to the
@@ -7,8 +5,11 @@ function [iniFin,newFs,NF]=segmentacion_Fases_Funcion(x,Fs,targetSil)
 
 %
 
+%%
+[x,Fs]=audioread('ba_01_S1_Q.wav');
+targetSil='ba_01_S1_Q';
 %% STEP 1: Resample at 16KHz as korean paper, by means of "LP_decimation_function".---------------------------------------------------------------------------------------------------------%       
- 
+
 newFs=1000;
 [xD]=LP_decimation_function(x,Fs,newFs);
 
@@ -232,4 +233,4 @@ end
 end
 
 
-end
+ 
