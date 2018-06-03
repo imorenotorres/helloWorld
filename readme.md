@@ -16,4 +16,7 @@
 # provide some funding 
 # 
 # The main motivation to develop this tookbox is explore how humans
-# segment speech
+# segment speech. Specifically, we believe that if a specific segmenting
+# strategy matches the strategy used by humans, then recognizing the
+# corresponding frames should result in erros which might be comparable
+# to those produced by humans. 
