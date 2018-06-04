@@ -1,7 +1,7 @@
 This tookbox should serve to explore speech segmentation algorithms
 from a linguistic perspective. 
 
-# 1. Motivation
+# 1. Motivation 
 
 The main motivation to develop this tookbox is explore how humans
 segment speech. We believe that understanding the effects of the
