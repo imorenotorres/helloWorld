@@ -8,15 +8,21 @@
 # - A fixed frame segmenter 
 #
 # The segmenters evaluator should quantify to what extent a specific segmentation is 
-# succesful. The  evaluators implemented to date: 2nd Jun 18) include:
+# successful. The  evaluators implemented to date: 2nd Jun 18) include:
 # - Euclidean distance (as used by Lee and Cho, 29016). 
 # - (in preparation): acoustic feature informativeness
 # 
 # We expect to add more segmenters and evaluators if the authorities 
-# provide some funding 
-# 
+# provide funding to pay our Matlab programmer.  
+
 # The main motivation to develop this tookbox is explore how humans
-# segment speech. Specifically, we believe that if a specific segmenting
-# strategy matches the strategy used by humans, then recognizing the
-# corresponding frames should result in erros which might be comparable
-# to those produced by humans. 
+# segment speech. We believe that understanding the effects of the
+# different segmentaion stratedis might be valuable to  address various research questions,
+# including:
+
+# 1) philological ones (e.g. do speakers from different dialects/languages
+# segment speech identically. 
+# 2) Related with language acquisition (do children / adults segment speech ientically 
+# (see Nittrouer, 2004)?) 
+# 3) Related with clinical linguistics: are segmentation strategies disrupted in the 
+# presence of speech and language processing pathologies?
