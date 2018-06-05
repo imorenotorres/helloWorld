@@ -1,21 +1,23 @@
-This is work in progress.. !!!
+This is work in progress... !!!
 
 # 1. Motivation 
 
-Our aim is to develop a tookbox that can be used to explore the impact of how differente segmentation approaches. We expect that it will serve as a linguistic reserch tool, and that it will be valuable to  address research questions in various areas:
+Our aim is to develop a tookbox that can be used to explore how we segment the speech stream into segments before we attempt to recognize acoustic events and higher-level phonetic units. We believe expect that clarifying this issue might be valuable to address research questions in various areas (and we hope that the toolbox will be useful for whoever is interested in answering these questions):
 
-1. Language variation
-   * do speakers from different dialects/languages segment speech identically?
-   * do we segment speech identically in all circumstances?
-   * is language change related with speech segmentation?
-   
-2. Related with language acquisition:
+1. Related with language acquisition:
    * do children / adults segment speech identically or as Nittrouer and colleagues have proposed children use larger segments (see Nittrouer, 2004)? 
 
-3. Related with clinical linguistics: 
+2. Related with clinical linguistics: 
    * are segmentation strategies disrupted in speech and language processing pathologies?
    * if the answer to the above question is yes, are segmentation errors the source or the consequence of other speech processing problems? 
    * do cochlear implant and normally hearing listeners segment speech identically?
+
+3. Language variation
+   * do speakers from different dialects/languages segment speech identically?
+   * do speakers segment speech identically in all circumstances?
+   * is language change related with speech segmentation?
+   
+
 
 # 2. Basic structure of the system and flowchart
 
@@ -34,7 +36,12 @@ successful. The  evaluator implemented to date: 2nd Jun 18) is:
 We expect to add more segmenters and evaluators if the authorities 
 provide funding to pay our Matlab programmer. 
 
-This is the basic flowchart of the program (Salvador)
+This is the basic flowchart of the program (Salvador):
+
+# 3. Contact
+
+Feel free to contact us if you would like to collaborate with us
+caliope@uma.es
 
 
 # References
