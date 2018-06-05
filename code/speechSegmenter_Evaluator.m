@@ -90,9 +90,6 @@
 
 %% Configurable: Variables globales del script
 
-addpath('C:\Users\USUARIO\Desktop\Librería_SpeechProcessing_Matlab\Estadística\Regresión\funciones');
-addpath('C:\Users\USUARIO\Desktop\Librería_SpeechProcessing_Matlab\Procesado_Señal_Habla\Segmentacion\funciones');
-
 hacerDibujo=input('Hacer dibujo: ');
 segmentacion_tipo=input('Tipo de segmentacion: ','s');  %fija o fases
 
@@ -107,7 +104,7 @@ end
 
 
 %nfolder='Jasa_Prueba';
-dirWavs=['ba_01_S1_Q.'];
+dirWavs=['../data/todasJasa_Q/ta*.*'];
 lista = dir([dirWavs 'wav']);
 results = zeros([length(lista) 3]); % Columnas: NTrans; MediaDEucl; SumDEuc
 
