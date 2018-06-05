@@ -47,6 +47,6 @@ caliope@uma.es
 # References
 Lee, B., & Cho, K.-H. (2016). Brain-inspired speech segmentation for automatic speech recognition using the speech envelope as a temporal reference. Scientific Reports, 6, 37647. 
 
-Moreno-Torres, I., & Madrid C�novas, S. (in review). Recognition of Spanish consonants in 8-talker babble by children with cochlear implants, and by children and adults with normal hearing. J. Acoust. Soc. Am. 
+Moreno-Torres, I., & Madrid Cánovas, S. (in review). Recognition of Spanish consonants in 8-talker babble by children with cochlear implants, and by children and adults with normal hearing. J. Acoust. Soc. Am. 
 
-Nittrouer, S., (2004). “The role of temporal and dynamic signal components in the perception of syllable-final stop voicing by children and adults,” J. Acoust. Soc. Am. 115(4): 1777–1790.
+Nittrouer, S., (2004). The role of temporal and dynamic signal components in the perception of syllable-final stop voicing by children and adults. J. Acoust. Soc. Am. 115(4): 1777-1790.
