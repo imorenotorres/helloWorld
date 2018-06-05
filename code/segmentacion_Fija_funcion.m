@@ -1,9 +1,9 @@
 function [x_framed, splitter,iniFinS]=segmentacion_Fija_funcion(x,Fs,targetsil,L,R,hacerDibujo)
 
-wt='rectwin';
+wt='rectwin';   
 [x_framed,splitter,iniFinS]=framer(x,Fs,L,R,wt);
 %splitter es un vector que va de 1 hasta M (teoricamente) y cuyo aumento en
-%cada valor es el de R.
+%cada valor es el de R.  zzzzzz
 
 
 %---------------------------Visualizacion---------------------------------------------------------------%
