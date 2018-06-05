@@ -10,7 +10,7 @@ Our aim is to develop a tookbox that can be used to explore how we segment the s
 2. Related with clinical linguistics: 
    * are segmentation strategies disrupted in speech and language processing pathologies?
    * if the answer to the above question is yes, are segmentation errors the source or the consequence of other speech processing problems? 
-   * do cochlear implant and normally hearing listeners segment speech identically?
+   * do cochlear implant and normally hearing listeners segment speech identically (see Moreno-Torres & Sonia-Madrid, in review)?
 
 3. Language variation
    * do speakers from different dialects/languages segment speech identically?
@@ -46,5 +46,7 @@ caliope@uma.es
 
 # References
 Lee, B., & Cho, K.-H. (2016). Brain-inspired speech segmentation for automatic speech recognition using the speech envelope as a temporal reference. Scientific Reports, 6, 37647. 
+
+Moreno-Torres, I., & Madrid C�novas, S. (in review). Recognition of Spanish consonants in 8-talker babble by children with cochlear implants, and by children and adults with normal hearing. J. Acoust. Soc. Am. 
 
 Nittrouer, S., (2004). “The role of temporal and dynamic signal components in the perception of syllable-final stop voicing by children and adults,” J. Acoust. Soc. Am. 115(4): 1777–1790.
