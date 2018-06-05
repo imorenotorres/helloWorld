@@ -1,4 +1,4 @@
-Speech segmenter is a 
+This is work in progress.. !!!
 
 # 1. Motivation 
 
@@ -35,3 +35,8 @@ We expect to add more segmenters and evaluators if the authorities
 provide funding to pay our Matlab programmer. 
 
 This is the basic flowchart of the program (Salvador)
+
+
+# References
+Lee, B., & Cho, K.-H. (2016). Brain-inspired speech segmentation for automatic speech recognition using the speech envelope as a temporal reference. Scientific Reports, 6, 37647. 
+Nittrouer, S., (2004). “The role of temporal and dynamic signal components in the perception of syllable-final stop voicing by children and adults,” J. Acoust. Soc. Am. 115(4): 1777–1790.
