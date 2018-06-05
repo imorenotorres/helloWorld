@@ -1,6 +1,8 @@
 This is work in progress...
 
-# 1. Motivation
+# 1. Elefante 
+
+Our aim is to develop a tookbox that can be used to explore how we segment the speech stream into segments before we attempt to recognize acoustic events and higher-level phonetic units. We believe expect that clarifying this issue might be valuable to address research questions in various areas (and we hope that the toolbox will be useful for whoever is interested in answering these questions):
 
 1. Related with language acquisition:
    * do children / adults segment speech identically or as Nittrouer and colleagues have proposed children use larger segments (see Nittrouer, 2004)?
