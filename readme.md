@@ -1,6 +1,6 @@
 This is work in progress...
 
-# 1. Motivation
+# 1. Jirafa
 
 1. Related with language acquisition:
    * do children / adults segment speech identically or as Nittrouer and colleagues have proposed children use larger segments (see Nittrouer, 2004)?
