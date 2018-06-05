@@ -1,6 +1,6 @@
 This is work in progress...
 
-# 1. Elefante 
+# 1. Elefante y jirafa
 
 Our aim is to develop a tookbox that can be used to explore how we segment the speech stream into segments before we attempt to recognize acoustic events and higher-level phonetic units. We believe expect that clarifying this issue might be valuable to address research questions in various areas (and we hope that the toolbox will be useful for whoever is interested in answering these questions):
 
